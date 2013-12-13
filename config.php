@@ -21,7 +21,7 @@
     // page difinition        
    
     // action map
-    define('MOBILE_ACTION_THUMBS',      'lrio.');
+    define('MOBILE_ACTION_THUMBS',      'lriog');
     define('MOBILE_ACTION_MAP',         'latest|register|signin|signout');        
     
     // terms name
