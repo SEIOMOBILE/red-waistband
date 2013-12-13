@@ -14,7 +14,7 @@ You should have received a copy of the GNU General Public License
 along with this program; if not, write to the Free Software
 4th floor, Ningxia RD. 777, Shanghai, China 
 */  
-class MobilePage {
+class MobileCore {
     var $post_name;
     var $page_title;
     var $page_content;

@@ -22,9 +22,7 @@
    
     // action map
     define('MOBILE_ACTION_THUMBS',      'lrio.');
-    define('MOBILE_ACTION_MAP',         array (
-        'latest', 'register', 'signin', 'signout',       
-    ));        
+    define('MOBILE_ACTION_MAP',         'latest|register|signin|signout');        
     
     // terms name
     define('MOBILE_POST_TAG',           'APP');
